@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "district": "강남구",
+    "name": "코엑스",
+    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='400'%3E%3Crect width='600' height='400' fill='%23f7e2d1'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-size='32' fill='%237b4f2f'%3E코엑스%3C/text%3E%3C/svg%3E",
+    "description": "쇼핑과 문화시설을 즐길 수 있는 서울 대표 복합 공간입니다."
+  },
+  {
+    "id": 2,
+    "district": "강남구",
+    "name": "봉은사",
+    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='400'%3E%3Crect width='600' height='400' fill='%23f6e1c6'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-size='32' fill='%237b4f2f'%3E봉은사%3C/text%3E%3C/svg%3E",
+    "description": "조용한 사찰 분위기와 아름다운 건축물이 인상적인 명소입니다."
+  },
+  {
+    "id": 3,
+    "district": "강남구",
+    "name": "선정릉",
+    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='400'%3E%3Crect width='600' height='400' fill='%23f7e9de'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-size='32' fill='%237b4f2f'%3E선정릉%3C/text%3E%3C/svg%3E",
+    "description": "역사와 자연을 함께 느낄 수 있는 감성적인 산책 코스입니다."
+  },
+  {
+    "id": 4,
+    "district": "종로구",
+    "name": "경복궁",
+    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='400'%3E%3Crect width='600' height='400' fill='%23f7ebdd'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-size='32' fill='%237b4f2f'%3E경복궁%3C/text%3E%3C/svg%3E",
+    "description": "전통의 아름다움을 느낄 수 있는 대표 궁궐입니다."
+  },
+  {
+    "id": 5,
+    "district": "종로구",
+    "name": "북촌한옥마을",
+    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='400'%3E%3Crect width='600' height='400' fill='%23f4e3d5'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-size='32' fill='%237b4f2f'%3E북촌한옥마을%3C/text%3E%3C/svg%3E",
+    "description": "한옥과 골목길을 따라 느긋하게 둘러볼 수 있는 장소입니다."
+  },
+  {
+    "id": 6,
+    "district": "마포구",
+    "name": "망원한강공원",
+    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='400'%3E%3Crect width='600' height='400' fill='%23f2e9d8'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-size='32' fill='%237b4f2f'%3E망원한강공원%3C/text%3E%3C/svg%3E",
+    "description": "노을과 한강 풍경을 즐기기 좋은 감성적인 산책지입니다."
+  },
+  {
+    "id": 7,
+    "district": "마포구",
+    "name": "서울월드컵경기장",
+    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='400'%3E%3Crect width='600' height='400' fill='%23f7e9d7'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-size='32' fill='%237b4f2f'%3E월드컵경기장%3C/text%3E%3C/svg%3E",
+    "description": "스포츠와 야경이 어우러지는 현대적인 명소입니다."
+  },
+  {
+    "id": 8,
+    "district": "서초구",
+    "name": "예술의전당",
+    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='400'%3E%3Crect width='600' height='400' fill='%23f7ecd8'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-size='32' fill='%237b4f2f'%3E예술의전당%3C/text%3E%3C/svg%3E",
+    "description": "공연과 전시를 즐기며 여유로운 시간을 보내기 좋은 곳입니다."
+  }
+]
